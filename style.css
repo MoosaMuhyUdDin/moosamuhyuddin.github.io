@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(151, 97, 212);
+}
+
+th{
+    border: 2px solid black;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    height: 10px;
+}
+img{
+    border-radius: 20px;
+}
